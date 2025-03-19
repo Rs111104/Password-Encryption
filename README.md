@@ -1,7 +1,7 @@
-# v0 Password Encryption Tool
+# Password Encryption Tool
 
 ## Overview
-The **v0 Password Encryption Tool** is a web-based application that allows users to securely encrypt their passwords. It is built using **Next.js**, **React**, **Tailwind CSS**, and various modern UI libraries for an optimized and user-friendly experience.
+The **Password Encryption Tool** is a web-based application that allows users to securely encrypt their passwords. It is built using **Next.js**, **React**, **Tailwind CSS**, and various modern UI libraries for an optimized and user-friendly experience.
 
 ## Features
 - **Secure Encryption:** Encrypt passwords using strong cryptographic methods.
@@ -28,8 +28,8 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/Rs111104/v0-password-encryption-tool.git
-cd v0-password-encryption-tool
+git clone https://github.com/Rs111104/password-encryption-tool.git
+cd password-encryption-tool
 ```
 
 ### Install Dependencies
@@ -71,4 +71,8 @@ This project is licensed under the **MIT License**.
 
 ## Contact
 For questions or suggestions, feel free to reach out!
+
+---
+
+> **Note:** Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username in the repository link.
 
